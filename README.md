@@ -30,6 +30,7 @@ Xcode will fetch and integrate the package into your project.
 
 ## Usage
 
+
 You can use the `InfiniteImageCarousellView` in your SwiftUI views as follows:
 
 ### Basic Usage
