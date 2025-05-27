@@ -12,7 +12,10 @@
 - **Cross-Platform Support**: Supports iOS 14+ and macOS 11.0+.
 
 ---
+![Demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxkcHhscWhxbG50cDJqNGVyb251bTJuMzFkYmZ3NW8xOXdtOWw1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yJ6WlmhqYQ4BcYO4rU/giphy.gif)
 
+
+---
 ## Installation
 
 ### Swift Package Manager
