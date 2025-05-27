@@ -92,17 +92,4 @@ iOS 14.0+
 Swift 5.0+
 
 License
-InfiniteImageCarousellView is released under the MIT License. See the LICENSE file for details.
-
-Contributing
-Fork the repository.
-
-Create a new branch (git checkout -b feature-name).
-
-Commit your changes (git commit -am 'Add new feature').
-
-Push to the branch (git push origin feature-name).
-
-Open a pull request.
-
-You can place this entire content in your `README.md` file. It gives a comprehensive overview of your package with installation instructions, usage examples, and how to contribute. Let me know if you'd like to adjust anything!
+InfiniteImageCarousellView is released under the MIT License.
